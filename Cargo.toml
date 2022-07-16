@@ -10,5 +10,5 @@ rand = "0.8.5"
 term_size = "0.3.2"
 
 [[bin]]
-name = "gol"
+name = "rust-game-of-life"
 path = "src/main.rs"
